@@ -1,3 +1,2 @@
-#This is my first push in git.
-<br>
-Author name - omkar ware
+# This is my first push in git.
+
